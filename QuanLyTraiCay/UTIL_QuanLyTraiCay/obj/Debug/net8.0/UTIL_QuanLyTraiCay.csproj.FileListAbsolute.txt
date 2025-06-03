@@ -1,0 +1,30 @@
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\UTIL_QuanLyTraiCay\bin\Debug\net8.0\UTIL_QuanLyTraiCay.deps.json
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\UTIL_QuanLyTraiCay\bin\Debug\net8.0\UTIL_QuanLyTraiCay.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\UTIL_QuanLyTraiCay\bin\Debug\net8.0\UTIL_QuanLyTraiCay.pdb
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\UTIL_QuanLyTraiCay\bin\Debug\net8.0\DTO_QuanLyTraiCay.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\UTIL_QuanLyTraiCay\bin\Debug\net8.0\DTO_QuanLyTraiCay.pdb
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\UTIL_QuanLyTraiCay.csproj.AssemblyReference.cache
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\UTIL_QuanLyTraiCay.GeneratedMSBuildEditorConfig.editorconfig
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\UTIL_QuanLyTraiCay.AssemblyInfoInputs.cache
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\UTIL_QuanLyTraiCay.AssemblyInfo.cs
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\UTIL_QuanLyTraiCay.csproj.CoreCompileInputs.cache
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\UTIL_Qua.ED4947D2.Up2Date
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\UTIL_QuanLyTraiCay.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\refint\UTIL_QuanLyTraiCay.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\UTIL_QuanLyTraiCay.pdb
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\ref\UTIL_QuanLyTraiCay.dll
+D:\POLY_FRUIT\QuanLyTraiCay\UTIL_QuanLyTraiCay\bin\Debug\net8.0\UTIL_QuanLyTraiCay.deps.json
+D:\POLY_FRUIT\QuanLyTraiCay\UTIL_QuanLyTraiCay\bin\Debug\net8.0\UTIL_QuanLyTraiCay.dll
+D:\POLY_FRUIT\QuanLyTraiCay\UTIL_QuanLyTraiCay\bin\Debug\net8.0\UTIL_QuanLyTraiCay.pdb
+D:\POLY_FRUIT\QuanLyTraiCay\UTIL_QuanLyTraiCay\bin\Debug\net8.0\DTO_QuanLyTraiCay.dll
+D:\POLY_FRUIT\QuanLyTraiCay\UTIL_QuanLyTraiCay\bin\Debug\net8.0\DTO_QuanLyTraiCay.pdb
+D:\POLY_FRUIT\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\UTIL_QuanLyTraiCay.csproj.AssemblyReference.cache
+D:\POLY_FRUIT\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\UTIL_QuanLyTraiCay.GeneratedMSBuildEditorConfig.editorconfig
+D:\POLY_FRUIT\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\UTIL_QuanLyTraiCay.AssemblyInfoInputs.cache
+D:\POLY_FRUIT\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\UTIL_QuanLyTraiCay.AssemblyInfo.cs
+D:\POLY_FRUIT\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\UTIL_QuanLyTraiCay.csproj.CoreCompileInputs.cache
+D:\POLY_FRUIT\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\UTIL_Qua.ED4947D2.Up2Date
+D:\POLY_FRUIT\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\UTIL_QuanLyTraiCay.dll
+D:\POLY_FRUIT\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\refint\UTIL_QuanLyTraiCay.dll
+D:\POLY_FRUIT\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\UTIL_QuanLyTraiCay.pdb
+D:\POLY_FRUIT\QuanLyTraiCay\UTIL_QuanLyTraiCay\obj\Debug\net8.0\ref\UTIL_QuanLyTraiCay.dll

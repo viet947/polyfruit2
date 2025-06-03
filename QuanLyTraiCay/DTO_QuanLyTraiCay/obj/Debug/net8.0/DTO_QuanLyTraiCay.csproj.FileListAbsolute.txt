@@ -1,0 +1,22 @@
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\DTO_QuanLyTraiCay\bin\Debug\net8.0\DTO_QuanLyTraiCay.deps.json
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\DTO_QuanLyTraiCay\bin\Debug\net8.0\DTO_QuanLyTraiCay.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\DTO_QuanLyTraiCay\bin\Debug\net8.0\DTO_QuanLyTraiCay.pdb
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\DTO_QuanLyTraiCay\obj\Debug\net8.0\DTO_QuanLyTraiCay.GeneratedMSBuildEditorConfig.editorconfig
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\DTO_QuanLyTraiCay\obj\Debug\net8.0\DTO_QuanLyTraiCay.AssemblyInfoInputs.cache
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\DTO_QuanLyTraiCay\obj\Debug\net8.0\DTO_QuanLyTraiCay.AssemblyInfo.cs
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\DTO_QuanLyTraiCay\obj\Debug\net8.0\DTO_QuanLyTraiCay.csproj.CoreCompileInputs.cache
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\DTO_QuanLyTraiCay\obj\Debug\net8.0\DTO_QuanLyTraiCay.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\DTO_QuanLyTraiCay\obj\Debug\net8.0\refint\DTO_QuanLyTraiCay.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\DTO_QuanLyTraiCay\obj\Debug\net8.0\DTO_QuanLyTraiCay.pdb
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\DTO_QuanLyTraiCay\obj\Debug\net8.0\ref\DTO_QuanLyTraiCay.dll
+D:\POLY_FRUIT\QuanLyTraiCay\DTO_QuanLyTraiCay\bin\Debug\net8.0\DTO_QuanLyTraiCay.deps.json
+D:\POLY_FRUIT\QuanLyTraiCay\DTO_QuanLyTraiCay\bin\Debug\net8.0\DTO_QuanLyTraiCay.dll
+D:\POLY_FRUIT\QuanLyTraiCay\DTO_QuanLyTraiCay\bin\Debug\net8.0\DTO_QuanLyTraiCay.pdb
+D:\POLY_FRUIT\QuanLyTraiCay\DTO_QuanLyTraiCay\obj\Debug\net8.0\DTO_QuanLyTraiCay.GeneratedMSBuildEditorConfig.editorconfig
+D:\POLY_FRUIT\QuanLyTraiCay\DTO_QuanLyTraiCay\obj\Debug\net8.0\DTO_QuanLyTraiCay.AssemblyInfoInputs.cache
+D:\POLY_FRUIT\QuanLyTraiCay\DTO_QuanLyTraiCay\obj\Debug\net8.0\DTO_QuanLyTraiCay.AssemblyInfo.cs
+D:\POLY_FRUIT\QuanLyTraiCay\DTO_QuanLyTraiCay\obj\Debug\net8.0\DTO_QuanLyTraiCay.csproj.CoreCompileInputs.cache
+D:\POLY_FRUIT\QuanLyTraiCay\DTO_QuanLyTraiCay\obj\Debug\net8.0\DTO_QuanLyTraiCay.dll
+D:\POLY_FRUIT\QuanLyTraiCay\DTO_QuanLyTraiCay\obj\Debug\net8.0\refint\DTO_QuanLyTraiCay.dll
+D:\POLY_FRUIT\QuanLyTraiCay\DTO_QuanLyTraiCay\obj\Debug\net8.0\DTO_QuanLyTraiCay.pdb
+D:\POLY_FRUIT\QuanLyTraiCay\DTO_QuanLyTraiCay\obj\Debug\net8.0\ref\DTO_QuanLyTraiCay.dll

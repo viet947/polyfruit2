@@ -1,0 +1,166 @@
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.csproj.AssemblyReference.cache
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.frmLogin.resources
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.frmMain.resources
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.frmNhanVien.resources
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.frmWelcome.resources
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.Properties.Resources.resources
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.csproj.GenerateResource.cache
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.GeneratedMSBuildEditorConfig.editorconfig
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.AssemblyInfoInputs.cache
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.AssemblyInfo.cs
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.csproj.CoreCompileInputs.cache
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\GUI_QuanLyTraiCay.exe
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\GUI_QuanLyTraiCay.deps.json
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\GUI_QuanLyTraiCay.runtimeconfig.json
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\GUI_QuanLyTraiCay.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\GUI_QuanLyTraiCay.pdb
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Guna.UI2.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\System.Management.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\BLL_QuanLyTraiCay.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\DAL_QuanLyTraiCay.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\DTO_QuanLyTraiCay.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\UTIL_QuanLyTraiCay.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\BLL_QuanLyTraiCay.pdb
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\DTO_QuanLyTraiCay.pdb
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\UTIL_QuanLyTraiCay.pdb
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\DAL_QuanLyTraiCay.pdb
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_Quan.975CD77E.Up2Date
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\refint\GUI_QuanLyTraiCay.dll
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.pdb
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.genruntimeconfig.cache
+E:\SOF2052_Dự án mẫu (UDPM.NET)\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\ref\GUI_QuanLyTraiCay.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\GUI_QuanLyTraiCay.exe
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\GUI_QuanLyTraiCay.deps.json
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\GUI_QuanLyTraiCay.runtimeconfig.json
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\GUI_QuanLyTraiCay.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\GUI_QuanLyTraiCay.pdb
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\System.Management.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\BLL_QuanLyTraiCay.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\DAL_QuanLyTraiCay.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\DTO_QuanLyTraiCay.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\UTIL_QuanLyTraiCay.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\BLL_QuanLyTraiCay.pdb
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\DTO_QuanLyTraiCay.pdb
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\UTIL_QuanLyTraiCay.pdb
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\bin\Debug\net8.0-windows\DAL_QuanLyTraiCay.pdb
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.csproj.AssemblyReference.cache
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.frmLogin.resources
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.frmMain.resources
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.frmNhanVien.resources
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.frmWelcome.resources
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.Properties.Resources.resources
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.csproj.GenerateResource.cache
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.GeneratedMSBuildEditorConfig.editorconfig
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.AssemblyInfoInputs.cache
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.AssemblyInfo.cs
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.csproj.CoreCompileInputs.cache
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_Quan.975CD77E.Up2Date
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\refint\GUI_QuanLyTraiCay.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.pdb
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.genruntimeconfig.cache
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\ref\GUI_QuanLyTraiCay.dll
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.frmchitiedonhang.resources
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.frmdonhang.resources
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.frmdonvitinh.resources
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.frmnhacungcap.resources
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.frmquanlykhachhang.resources
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.frmquanlyloaisanpham.resources
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.frmquanlysanpham.resources
+D:\POLY_FRUIT\QuanLyTraiCay\GUI_QuanLyTraiCay\obj\Debug\net8.0-windows\GUI_QuanLyTraiCay.frmquanlytrangthai.resources

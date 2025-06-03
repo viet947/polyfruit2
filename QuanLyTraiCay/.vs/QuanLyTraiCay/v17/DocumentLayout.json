@@ -1,0 +1,658 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\POLY_FRUIT\\QuanLyTraiCay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\gui_quanlytraicay\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\gui_quanlytraicay\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\gui_quanlytraicay\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|D:\\POLY_FRUIT\\QuanLyTraiCay\\gui_quanlytraicay\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dal_quanlytraicay\\dal_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|solutionrelative:dal_quanlytraicay\\dal_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dal_quanlytraicay\\dal_loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|solutionrelative:dal_quanlytraicay\\dal_loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dal_quanlytraicay\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|solutionrelative:dal_quanlytraicay\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dal_quanlytraicay\\dal_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|solutionrelative:dal_quanlytraicay\\dal_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dal_quanlytraicay\\dal_quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|solutionrelative:dal_quanlytraicay\\dal_quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dal_quanlytraicay\\dal_chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|solutionrelative:dal_quanlytraicay\\dal_chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dal_quanlytraicay\\dal_nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|solutionrelative:dal_quanlytraicay\\dal_nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dto_quanlytraicay\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|solutionrelative:dto_quanlytraicay\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0DAE04-A306-47D9-8AAF-D7A792425F36}|BLL_QuanLyTraiCay\\BLL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\bll_quanlytraicay\\bus_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0DAE04-A306-47D9-8AAF-D7A792425F36}|BLL_QuanLyTraiCay\\BLL_QuanLyTraiCay.csproj|solutionrelative:bll_quanlytraicay\\bus_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dto_quanlytraicay\\donvitinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|solutionrelative:dto_quanlytraicay\\donvitinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dto_quanlytraicay\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|solutionrelative:dto_quanlytraicay\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dto_quanlytraicay\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|solutionrelative:dto_quanlytraicay\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\gui_quanlytraicay\\frmquanlytrangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmquanlytrangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\gui_quanlytraicay\\frmquanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmquanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\gui_quanlytraicay\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\gui_quanlytraicay\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|D:\\POLY_FRUIT\\QuanLyTraiCay\\gui_quanlytraicay\\frmchitiedonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmchitiedonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dto_quanlytraicay\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|solutionrelative:dto_quanlytraicay\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dto_quanlytraicay\\chitietloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|solutionrelative:dto_quanlytraicay\\chitietloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dal_quanlytraicay\\dal_trangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|solutionrelative:dal_quanlytraicay\\dal_trangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dal_quanlytraicay\\dal_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|solutionrelative:dal_quanlytraicay\\dal_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|D:\\POLY_FRUIT\\QuanLyTraiCay\\gui_quanlytraicay\\frmquanlytrangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmquanlytrangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0DAE04-A306-47D9-8AAF-D7A792425F36}|BLL_QuanLyTraiCay\\BLL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\bll_quanlytraicay\\bus_trangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0DAE04-A306-47D9-8AAF-D7A792425F36}|BLL_QuanLyTraiCay\\BLL_QuanLyTraiCay.csproj|solutionrelative:bll_quanlytraicay\\bus_trangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dto_quanlytraicay\\trangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|solutionrelative:dto_quanlytraicay\\trangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dto_quanlytraicay\\quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|solutionrelative:dto_quanlytraicay\\quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\gui_quanlytraicay\\frmwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dto_quanlytraicay\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|solutionrelative:dto_quanlytraicay\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\gui_quanlytraicay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0DAE04-A306-47D9-8AAF-D7A792425F36}|BLL_QuanLyTraiCay\\BLL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\bll_quanlytraicay\\bus_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0DAE04-A306-47D9-8AAF-D7A792425F36}|BLL_QuanLyTraiCay\\BLL_QuanLyTraiCay.csproj|solutionrelative:bll_quanlytraicay\\bus_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0DAE04-A306-47D9-8AAF-D7A792425F36}|BLL_QuanLyTraiCay\\BLL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\bll_quanlytraicay\\bus_chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0DAE04-A306-47D9-8AAF-D7A792425F36}|BLL_QuanLyTraiCay\\BLL_QuanLyTraiCay.csproj|solutionrelative:bll_quanlytraicay\\bus_chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0DAE04-A306-47D9-8AAF-D7A792425F36}|BLL_QuanLyTraiCay\\BLL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\bll_quanlytraicay\\bus_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0DAE04-A306-47D9-8AAF-D7A792425F36}|BLL_QuanLyTraiCay\\BLL_QuanLyTraiCay.csproj|solutionrelative:bll_quanlytraicay\\bus_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0DAE04-A306-47D9-8AAF-D7A792425F36}|BLL_QuanLyTraiCay\\BLL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\bll_quanlytraicay\\bus_loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0DAE04-A306-47D9-8AAF-D7A792425F36}|BLL_QuanLyTraiCay\\BLL_QuanLyTraiCay.csproj|solutionrelative:bll_quanlytraicay\\bus_loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\gui_quanlytraicay\\frmchitiedonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmchitiedonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|D:\\POLY_FRUIT\\QuanLyTraiCay\\gui_quanlytraicay\\frmwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmchitiedonhang.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmchitiedonhang.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmchitiedonhang.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmchitiedonhang.cs",
+              "RelativeToolTip": "GUI_QuanLyTraiCay\\frmchitiedonhang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:53:19.05Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmdonhang.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmdonhang.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmdonhang.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmdonhang.cs",
+              "RelativeToolTip": "GUI_QuanLyTraiCay\\frmdonhang.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:42:32.832Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmquanlysanpham.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmquanlysanpham.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmquanlysanpham.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmquanlysanpham.cs",
+              "RelativeToolTip": "GUI_QuanLyTraiCay\\frmquanlysanpham.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIAwwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:52:33.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DAL_donhang.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_donhang.cs",
+              "RelativeDocumentMoniker": "DAL_QuanLyTraiCay\\DAL_donhang.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_donhang.cs",
+              "RelativeToolTip": "DAL_QuanLyTraiCay\\DAL_donhang.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAArwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:43:29.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmMain.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmMain.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmMain.cs",
+              "RelativeToolTip": "GUI_QuanLyTraiCay\\frmMain.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAIA0wF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:53:17.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmMain.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmMain.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmMain.cs [Design]",
+              "RelativeToolTip": "GUI_QuanLyTraiCay\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:53:14.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmquanlytrangthai.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmquanlytrangthai.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmquanlytrangthai.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmquanlytrangthai.cs",
+              "RelativeToolTip": "GUI_QuanLyTraiCay\\frmquanlytrangthai.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAASwCAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:51:35.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Bus_TrangThai.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\BLL_QuanLyTraiCay\\Bus_TrangThai.cs",
+              "RelativeDocumentMoniker": "BLL_QuanLyTraiCay\\Bus_TrangThai.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\BLL_QuanLyTraiCay\\Bus_TrangThai.cs",
+              "RelativeToolTip": "BLL_QuanLyTraiCay\\Bus_TrangThai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:49:52.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DAL_Trangthai.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_Trangthai.cs",
+              "RelativeDocumentMoniker": "DAL_QuanLyTraiCay\\DAL_Trangthai.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_Trangthai.cs",
+              "RelativeToolTip": "DAL_QuanLyTraiCay\\DAL_Trangthai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:43:16.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Trangthai.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\Trangthai.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyTraiCay\\Trangthai.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\Trangthai.cs",
+              "RelativeToolTip": "DTO_QuanLyTraiCay\\Trangthai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:41:10.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmquanlykhachhang.cs [Design]",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmquanlykhachhang.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmquanlykhachhang.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmquanlykhachhang.cs [Design]",
+              "RelativeToolTip": "GUI_QuanLyTraiCay\\frmquanlykhachhang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:37:23.276Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DAL_quanlykhachhang.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_quanlykhachhang.cs",
+              "RelativeDocumentMoniker": "DAL_QuanLyTraiCay\\DAL_quanlykhachhang.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_quanlykhachhang.cs",
+              "RelativeToolTip": "DAL_QuanLyTraiCay\\DAL_quanlykhachhang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:04:44.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BUS_KhachHang.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\BLL_QuanLyTraiCay\\BUS_KhachHang.cs",
+              "RelativeDocumentMoniker": "BLL_QuanLyTraiCay\\BUS_KhachHang.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\BLL_QuanLyTraiCay\\BUS_KhachHang.cs",
+              "RelativeToolTip": "BLL_QuanLyTraiCay\\BUS_KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:14:53.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Bus_ChiTietDonHang.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\BLL_QuanLyTraiCay\\Bus_ChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "BLL_QuanLyTraiCay\\Bus_ChiTietDonHang.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\BLL_QuanLyTraiCay\\Bus_ChiTietDonHang.cs",
+              "RelativeToolTip": "BLL_QuanLyTraiCay\\Bus_ChiTietDonHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:13:52.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DAL_Chitietdonhang.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_Chitietdonhang.cs",
+              "RelativeDocumentMoniker": "DAL_QuanLyTraiCay\\DAL_Chitietdonhang.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_Chitietdonhang.cs",
+              "RelativeToolTip": "DAL_QuanLyTraiCay\\DAL_Chitietdonhang.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAowIgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:44:52.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Chitietloaisanpham.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\Chitietloaisanpham.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyTraiCay\\Chitietloaisanpham.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\Chitietloaisanpham.cs",
+              "RelativeToolTip": "DTO_QuanLyTraiCay\\Chitietloaisanpham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:58:56.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoaiSanpham.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\LoaiSanpham.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyTraiCay\\LoaiSanpham.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\LoaiSanpham.cs",
+              "RelativeToolTip": "DTO_QuanLyTraiCay\\LoaiSanpham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:21:05.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DAL_NhanVien.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_NhanVien.cs",
+              "RelativeDocumentMoniker": "DAL_QuanLyTraiCay\\DAL_NhanVien.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_NhanVien.cs",
+              "RelativeToolTip": "DAL_QuanLyTraiCay\\DAL_NhanVien.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwGMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:51:27.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Bus_LoaiSanpham.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\BLL_QuanLyTraiCay\\Bus_LoaiSanpham.cs",
+              "RelativeDocumentMoniker": "BLL_QuanLyTraiCay\\Bus_LoaiSanpham.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\BLL_QuanLyTraiCay\\Bus_LoaiSanpham.cs",
+              "RelativeToolTip": "BLL_QuanLyTraiCay\\Bus_LoaiSanpham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:39:17.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAL_loaisanpham.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_loaisanpham.cs",
+              "RelativeDocumentMoniker": "DAL_QuanLyTraiCay\\DAL_loaisanpham.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_loaisanpham.cs",
+              "RelativeToolTip": "DAL_QuanLyTraiCay\\DAL_loaisanpham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwHQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:23:08.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Bus_Sanpham.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\BLL_QuanLyTraiCay\\Bus_Sanpham.cs",
+              "RelativeDocumentMoniker": "BLL_QuanLyTraiCay\\Bus_Sanpham.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\BLL_QuanLyTraiCay\\Bus_Sanpham.cs",
+              "RelativeToolTip": "BLL_QuanLyTraiCay\\Bus_Sanpham.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:05:23.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DAL_Sanpham.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_Sanpham.cs",
+              "RelativeDocumentMoniker": "DAL_QuanLyTraiCay\\DAL_Sanpham.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_Sanpham.cs",
+              "RelativeToolTip": "DAL_QuanLyTraiCay\\DAL_Sanpham.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwEgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:46:47.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Sanpham.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\Sanpham.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyTraiCay\\Sanpham.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\Sanpham.cs",
+              "RelativeToolTip": "DTO_QuanLyTraiCay\\Sanpham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:39:22.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BUS_Donhang.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\BLL_QuanLyTraiCay\\BUS_Donhang.cs",
+              "RelativeDocumentMoniker": "BLL_QuanLyTraiCay\\BUS_Donhang.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\BLL_QuanLyTraiCay\\BUS_Donhang.cs",
+              "RelativeToolTip": "BLL_QuanLyTraiCay\\BUS_Donhang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:20:55.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Donhang.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\Donhang.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyTraiCay\\Donhang.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\Donhang.cs",
+              "RelativeToolTip": "DTO_QuanLyTraiCay\\Donhang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:42:25.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmdonhang.cs [Design]",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmdonhang.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmdonhang.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmdonhang.cs [Design]",
+              "RelativeToolTip": "GUI_QuanLyTraiCay\\frmdonhang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:42:06.653Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DAL_NhaCungCap.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_NhaCungCap.cs",
+              "RelativeDocumentMoniker": "DAL_QuanLyTraiCay\\DAL_NhaCungCap.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_NhaCungCap.cs",
+              "RelativeToolTip": "DAL_QuanLyTraiCay\\DAL_NhaCungCap.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwIYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:38:26.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBUtil.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DBUtil.cs",
+              "RelativeDocumentMoniker": "DAL_QuanLyTraiCay\\DBUtil.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DBUtil.cs",
+              "RelativeToolTip": "DAL_QuanLyTraiCay\\DBUtil.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwEIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:09:14.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "quanlykhachhang.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\quanlykhachhang.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyTraiCay\\quanlykhachhang.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\quanlykhachhang.cs",
+              "RelativeToolTip": "DTO_QuanLyTraiCay\\quanlykhachhang.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:03:10.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "nhacungcap.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\nhacungcap.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyTraiCay\\nhacungcap.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\nhacungcap.cs",
+              "RelativeToolTip": "DTO_QuanLyTraiCay\\nhacungcap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T01:38:24.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Donvitinh.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\Donvitinh.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyTraiCay\\Donvitinh.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\Donvitinh.cs",
+              "RelativeToolTip": "DTO_QuanLyTraiCay\\Donvitinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:27:17.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmquanlytrangthai.cs [Design]",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmquanlytrangthai.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmquanlytrangthai.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmquanlytrangthai.cs [Design]",
+              "RelativeToolTip": "GUI_QuanLyTraiCay\\frmquanlytrangthai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:36:36.064Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmquanlysanpham.cs [Design]",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmquanlysanpham.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmquanlysanpham.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmquanlysanpham.cs [Design]",
+              "RelativeToolTip": "GUI_QuanLyTraiCay\\frmquanlysanpham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:34:41.279Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmchitiedonhang.cs [Design]",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmchitiedonhang.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmchitiedonhang.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmchitiedonhang.cs [Design]",
+              "RelativeToolTip": "GUI_QuanLyTraiCay\\frmchitiedonhang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:27:30.639Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\NhanVien.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLyTraiCay\\NhanVien.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\NhanVien.cs",
+              "RelativeToolTip": "DTO_QuanLyTraiCay\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:48:00.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmWelcome.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmWelcome.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmWelcome.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmWelcome.cs",
+              "RelativeToolTip": "GUI_QuanLyTraiCay\\frmWelcome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:27:43.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\Program.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\Program.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\Program.cs",
+              "RelativeToolTip": "GUI_QuanLyTraiCay\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:50:31.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmWelcome.cs [Design]",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmWelcome.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmWelcome.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmWelcome.cs [Design]",
+              "RelativeToolTip": "GUI_QuanLyTraiCay\\frmWelcome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:47:16.841Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
