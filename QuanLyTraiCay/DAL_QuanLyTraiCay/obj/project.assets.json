@@ -1688,11 +1688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj",
+      "projectUniqueName": "D:\\POLY_FRUIT\\polyfruit2\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj",
       "projectName": "DAL_QuanLyTraiCay",
-      "projectPath": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj",
+      "projectPath": "D:\\POLY_FRUIT\\polyfruit2\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj",
       "packagesPath": "C:\\Users\\`viet\\.nuget\\packages\\",
-      "outputPath": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\obj\\",
+      "outputPath": "D:\\POLY_FRUIT\\polyfruit2\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1713,8 +1713,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj": {
-              "projectPath": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj"
+            "D:\\POLY_FRUIT\\polyfruit2\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj": {
+              "projectPath": "D:\\POLY_FRUIT\\polyfruit2\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj"
             }
           }
         }

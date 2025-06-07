@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DAL_QuanLyTraiCay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f8c576ca7001b1c7eb175a3d82670d3a0778256")]
 [assembly: System.Reflection.AssemblyProductAttribute("DAL_QuanLyTraiCay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DAL_QuanLyTraiCay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

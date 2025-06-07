@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\POLY_FRUIT\\QuanLyTraiCay\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dal_quanlytraicay\\dal_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|solutionrelative:dal_quanlytraicay\\dal_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\gui_quanlytraicay\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\gui_quanlytraicay\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\gui_quanlytraicay\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|D:\\POLY_FRUIT\\QuanLyTraiCay\\gui_quanlytraicay\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dal_quanlytraicay\\dal_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|solutionrelative:dal_quanlytraicay\\dal_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dal_quanlytraicay\\dal_loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|solutionrelative:dal_quanlytraicay\\dal_loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dal_quanlytraicay\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,16 +47,8 @@
       "RelativeMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|solutionrelative:dal_quanlytraicay\\dal_nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dal_quanlytraicay\\dal_loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{829F8086-9740-46EE-8CA5-2C0C849B32FC}|DAL_QuanLyTraiCay\\DAL_QuanLyTraiCay.csproj|solutionrelative:dal_quanlytraicay\\dal_loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\dto_quanlytraicay\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3947A6E7-A0F6-4A1A-81FC-549E7D05DBDA}|DTO_QuanLyTraiCay\\DTO_QuanLyTraiCay.csproj|solutionrelative:dto_quanlytraicay\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\gui_quanlytraicay\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B0DAE04-A306-47D9-8AAF-D7A792425F36}|BLL_QuanLyTraiCay\\BLL_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\bll_quanlytraicay\\bus_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\gui_quanlytraicay\\frmquanlytrangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmquanlytrangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|D:\\POLY_FRUIT\\QuanLyTraiCay\\gui_quanlytraicay\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|solutionrelative:gui_quanlytraicay\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E465E31A-A080-4FB2-9470-912CF4B0196F}|GUI_QuanLyTraiCay\\GUI_QuanLyTraiCay.csproj|d:\\poly_fruit\\quanlytraicay\\gui_quanlytraicay\\frmquanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -158,11 +162,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 203,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 26,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "frmchitiedonhang.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmchitiedonhang.cs",
               "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmchitiedonhang.cs",
@@ -182,10 +186,23 @@
               "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmdonhang.cs",
               "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmdonhang.cs",
               "RelativeToolTip": "GUI_QuanLyTraiCay\\frmdonhang.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAQwCoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwEgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T06:42:32.832Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmquanlysanpham.cs",
+              "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmquanlysanpham.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmquanlysanpham.cs",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmquanlysanpham.cs",
+              "RelativeToolTip": "GUI_QuanLyTraiCay\\frmquanlysanpham.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIAwwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:52:33.577Z",
               "EditorCaption": ""
             },
             {
@@ -194,20 +211,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "DAL_donhang.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_donhang.cs",
               "RelativeDocumentMoniker": "DAL_QuanLyTraiCay\\DAL_donhang.cs",
-              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_donhang.cs*",
-              "RelativeToolTip": "DAL_QuanLyTraiCay\\DAL_donhang.cs*",
-              "ViewState": "AgIAACYAAAAAAAAAAAArwDYAAAAhAAAAAAAAAA==",
+              "ToolTip": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_donhang.cs",
+              "RelativeToolTip": "DAL_QuanLyTraiCay\\DAL_donhang.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAArwDAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T12:43:29.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "frmMain.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmMain.cs",
               "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmMain.cs",
@@ -220,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "frmMain.cs [Design]",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmMain.cs",
               "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmMain.cs",
@@ -232,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "frmquanlytrangthai.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmquanlytrangthai.cs",
               "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmquanlytrangthai.cs",
@@ -245,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Bus_TrangThai.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\BLL_QuanLyTraiCay\\Bus_TrangThai.cs",
               "RelativeDocumentMoniker": "BLL_QuanLyTraiCay\\Bus_TrangThai.cs",
@@ -258,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "DAL_Trangthai.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_Trangthai.cs",
               "RelativeDocumentMoniker": "DAL_QuanLyTraiCay\\DAL_Trangthai.cs",
@@ -271,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Trangthai.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\Trangthai.cs",
               "RelativeDocumentMoniker": "DTO_QuanLyTraiCay\\Trangthai.cs",
@@ -284,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "frmquanlykhachhang.cs [Design]",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmquanlykhachhang.cs",
               "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmquanlykhachhang.cs",
@@ -296,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "DAL_quanlykhachhang.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_quanlykhachhang.cs",
               "RelativeDocumentMoniker": "DAL_QuanLyTraiCay\\DAL_quanlykhachhang.cs",
@@ -309,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "BUS_KhachHang.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\BLL_QuanLyTraiCay\\BUS_KhachHang.cs",
               "RelativeDocumentMoniker": "BLL_QuanLyTraiCay\\BUS_KhachHang.cs",
@@ -321,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Bus_ChiTietDonHang.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\BLL_QuanLyTraiCay\\Bus_ChiTietDonHang.cs",
               "RelativeDocumentMoniker": "BLL_QuanLyTraiCay\\Bus_ChiTietDonHang.cs",
@@ -333,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "DAL_Chitietdonhang.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_Chitietdonhang.cs",
               "RelativeDocumentMoniker": "DAL_QuanLyTraiCay\\DAL_Chitietdonhang.cs",
@@ -346,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Chitietloaisanpham.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\Chitietloaisanpham.cs",
               "RelativeDocumentMoniker": "DTO_QuanLyTraiCay\\Chitietloaisanpham.cs",
@@ -359,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "LoaiSanpham.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\LoaiSanpham.cs",
               "RelativeDocumentMoniker": "DTO_QuanLyTraiCay\\LoaiSanpham.cs",
@@ -372,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "DAL_NhanVien.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_NhanVien.cs",
               "RelativeDocumentMoniker": "DAL_QuanLyTraiCay\\DAL_NhanVien.cs",
@@ -385,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Bus_LoaiSanpham.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\BLL_QuanLyTraiCay\\Bus_LoaiSanpham.cs",
               "RelativeDocumentMoniker": "BLL_QuanLyTraiCay\\Bus_LoaiSanpham.cs",
@@ -397,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "DAL_loaisanpham.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_loaisanpham.cs",
               "RelativeDocumentMoniker": "DAL_QuanLyTraiCay\\DAL_loaisanpham.cs",
@@ -410,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Bus_Sanpham.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\BLL_QuanLyTraiCay\\Bus_Sanpham.cs",
               "RelativeDocumentMoniker": "BLL_QuanLyTraiCay\\Bus_Sanpham.cs",
@@ -422,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "DAL_Sanpham.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_Sanpham.cs",
               "RelativeDocumentMoniker": "DAL_QuanLyTraiCay\\DAL_Sanpham.cs",
@@ -435,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Sanpham.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\Sanpham.cs",
               "RelativeDocumentMoniker": "DTO_QuanLyTraiCay\\Sanpham.cs",
@@ -447,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "BUS_Donhang.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\BLL_QuanLyTraiCay\\BUS_Donhang.cs",
               "RelativeDocumentMoniker": "BLL_QuanLyTraiCay\\BUS_Donhang.cs",
@@ -460,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Donhang.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\Donhang.cs",
               "RelativeDocumentMoniker": "DTO_QuanLyTraiCay\\Donhang.cs",
@@ -473,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "frmdonhang.cs [Design]",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmdonhang.cs",
               "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmdonhang.cs",
@@ -485,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "DAL_NhaCungCap.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DAL_NhaCungCap.cs",
               "RelativeDocumentMoniker": "DAL_QuanLyTraiCay\\DAL_NhaCungCap.cs",
@@ -498,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "DBUtil.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DAL_QuanLyTraiCay\\DBUtil.cs",
               "RelativeDocumentMoniker": "DAL_QuanLyTraiCay\\DBUtil.cs",
@@ -511,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "quanlykhachhang.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\quanlykhachhang.cs",
               "RelativeDocumentMoniker": "DTO_QuanLyTraiCay\\quanlykhachhang.cs",
@@ -524,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "nhacungcap.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\nhacungcap.cs",
               "RelativeDocumentMoniker": "DTO_QuanLyTraiCay\\nhacungcap.cs",
@@ -537,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Donvitinh.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\Donvitinh.cs",
               "RelativeDocumentMoniker": "DTO_QuanLyTraiCay\\Donvitinh.cs",
@@ -550,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "frmquanlytrangthai.cs [Design]",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmquanlytrangthai.cs",
               "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmquanlytrangthai.cs",
@@ -562,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
               "Title": "frmquanlysanpham.cs [Design]",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmquanlysanpham.cs",
               "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmquanlysanpham.cs",
@@ -574,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "frmchitiedonhang.cs [Design]",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmchitiedonhang.cs",
               "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmchitiedonhang.cs",
@@ -586,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "NhanVien.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\DTO_QuanLyTraiCay\\NhanVien.cs",
               "RelativeDocumentMoniker": "DTO_QuanLyTraiCay\\NhanVien.cs",
@@ -599,7 +616,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "frmWelcome.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmWelcome.cs",
               "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmWelcome.cs",
@@ -612,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\Program.cs",
               "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\Program.cs",
@@ -624,7 +641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "frmWelcome.cs [Design]",
               "DocumentMoniker": "D:\\POLY_FRUIT\\QuanLyTraiCay\\GUI_QuanLyTraiCay\\frmWelcome.cs",
               "RelativeDocumentMoniker": "GUI_QuanLyTraiCay\\frmWelcome.cs",
